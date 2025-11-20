@@ -1,5 +1,5 @@
 # Subcellular-Localization-Prediction-of-Human-Proteins-Using-Sequence-Based-Machine-Learning-Models-
-Bioinformatics Project by:- Sejal Khade, Aashay Deshpande, Pratyush Ingale, Krishna Shet
+Bioinformatics Project by:- Sejal Khade, Aashay Deshpande, Pratyush Ingale, Krishna Shete
 
 # Protein Subcellular Location Classification
 
