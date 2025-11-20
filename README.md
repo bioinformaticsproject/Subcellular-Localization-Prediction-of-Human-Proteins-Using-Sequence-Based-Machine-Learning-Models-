@@ -3,7 +3,7 @@ Bioinformatics Project by:- Sejal Khade, Aashay Deshpande, Pratyush Ingale, Kris
 
 # Protein Subcellular Location Classification
 
- # Project Summary (5-Line Overview)
+ # Project Summary
 
 This project aims to predict protein subcellular localization using machine learning on the DeepLoc dataset (14,004 sequences, 10 classes). We implemented a reproducible pipeline in Google Colab that extracts the simple Amino Acid Composition (AAC) features. We then trained and optimized three classifiers—Random Forest (RF), Support Vector Machine (SVM), and Multi-Layer Perceptron (MLP)—and evaluated their performance using Macro Avg F1-score and Confusion Matrices to identify the best model for this classification task.
 
