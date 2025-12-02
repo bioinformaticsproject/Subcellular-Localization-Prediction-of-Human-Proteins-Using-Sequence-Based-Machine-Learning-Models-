@@ -15,6 +15,12 @@ This repository contains a complete, end-to-end machine learning pipeline for pr
 We implement, train, and evaluate several classical machine learning models, perform hyperparameter tuning, and generate a comprehensive evaluation dashboard. The entire pipeline runs inside a single Google Colab notebook for full reproducibility.
 
 ---
+##⚠️ Note on GitHub Notebook Rendering
+
+**The notebook contains interactive Plotly dashboards and widget metadata, which GitHub cannot render.
+If the notebook does not display on GitHub, please download it and open it in Google Colab for full functionality**.
+
+---
 
 ## 2. Dataset Summary
 
